@@ -1,1 +1,1 @@
-# Image and Video Processing project
+# Image and Video Processing Project
