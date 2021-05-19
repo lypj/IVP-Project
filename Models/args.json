@@ -1,0 +1,10 @@
+{
+    "model": {
+        "adaptive": false,
+        "filter_size": 7,
+        "iters": 20,
+        "num_filters": 32,
+        "stride": 1,
+        "tau0": 1e-2
+    }
+}
